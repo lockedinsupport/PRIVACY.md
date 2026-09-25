@@ -1,6 +1,7 @@
 Privacy Policy for LockedIn
 ​Effective Date: August 17, 2026
-​LockedIn ("we," "our," or "us") is dedicated to helping you achieve discipline and build positive habits. We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we handle your data when you use the LockedIn mobile application.
+
+​LockedIn is dedicated to helping you achieve discipline and build positive habits. We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we handle your data when you use the LockedIn mobile application.
 ​1. Information We Collect
 ​LockedIn is designed with privacy at its core. We do not collect, transmit, or store your personal data on external servers. All core functionality runs entirely on your device.
 ​A. Data Stored Locally
